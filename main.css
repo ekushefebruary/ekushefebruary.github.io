@@ -996,7 +996,7 @@ ul#example li.seperator {
   text-decoration: underline;
 }
 
-apple-view-link:hover {
+.apple-view-link:hover {
   color: hsla(0, 0%, 100%, .6);
 }
 
