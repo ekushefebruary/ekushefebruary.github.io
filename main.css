@@ -760,6 +760,7 @@ ul#example li.seperator {
 
 .white-content-block-content-wrapper.align-left {
   text-align: left;
+  padding: 8px 16px 7px;
 }
 
 .white-content-block-content-wrapper.registries {
