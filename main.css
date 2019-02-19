@@ -1829,9 +1829,9 @@ html.w-mod-js *[data-ix="registry-logo"] {
     padding-bottom: 20px;
   }
   .section.blog-post-section {
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
   }
   .section.bottom-line {
     padding-bottom: 20px;
